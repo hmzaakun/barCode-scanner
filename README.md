@@ -1,4 +1,4 @@
-# barCode-scanner
+# barCodeScanner
 
 Un scanner de code barre lié à une API permettant de vérifier l'identité des membres du site www.pay2earn.store.
 
