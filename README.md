@@ -6,7 +6,7 @@ Un scanner de code barre lié à une API permettant de vérifier l'identité des
 
 ## Screenshot
 
-![App Screenshot](https://imgur.com/a/w98VTr8)
+![App Screenshot](https://i.imgur.com/tMArPBD.png)
 
 
 
